@@ -1,0 +1,14 @@
+# Private source material
+resume-source.docx
+.resume-extract/
+
+# Local QA artifacts and scripts
+tools/
+visual-tests/
+
+# Local environment and OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
